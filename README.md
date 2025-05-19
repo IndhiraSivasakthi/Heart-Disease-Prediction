@@ -42,7 +42,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processe
 - Matplotlib, Seaborn (for visualization)  
 - Google colab notebook
 
-##RESULT ANALYSIS
+## RESULT ANALYSIS
 | **Algorithm**           | **Training Accuracy** | **Test Accuracy** | **Overall Accuracy** |
 | ----------------------- | --------------------- | ----------------- | -------------------- |
 | **Random Forest**       | 100.00%               | 90.16%            | 90.16%               |
